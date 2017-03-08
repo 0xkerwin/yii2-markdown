@@ -1,13 +1,13 @@
 {
-    "name": "yiier/yii2-editor.md",
-    "description": "editor.md for Yii2",
+    "name": "0xkerwin/yii2-markdown",
+    "description": "markdown for Yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","editor","editor.md"],
+    "keywords": ["yii2","extension","editor","markdown"],
     "license": "BSD-4-Clause",
     "authors": [
         {
-            "name": "forecho",
-            "email": "caizhenghai@gmail.com"
+            "name": "kerwin",
+            "email": "0xkerwin@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yiier\\editor\\": "src"
+            "kerwin\\markdown\\": "src"
         }
     }
 }
