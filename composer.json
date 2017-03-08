@@ -12,11 +12,11 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/editor.md": "*"
+        "pandao/editor.md": "*"
     },
     "autoload": {
         "psr-4": {
-            "0xkerwin\\markdown\\": "src"
+            "kerwin\\markdown\\": "src"
         }
     }
 }
