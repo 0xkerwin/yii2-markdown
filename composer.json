@@ -1,16 +1,17 @@
 {
     "name": "0xkerwin/yii2-markdown",
-    "description": "markdown for Yii2",
-    "type": "yii2-extension",
+    "description": "markdown for Yii2.0",
     "keywords": ["yii2","extension","editor","markdown"],
-    "license": "BSD-4-Clause",
+    "homepage": "https://github.com/0xkerwin/yii2-markdown",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
     "authors": [
         {
             "name": "kerwin",
             "email": "0xkerwin@gmail.com"
         }
     ],
-    "minimum-stability": "stable", 
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*",
         "pandao/editor.md": "*"
