@@ -10,14 +10,14 @@
             "email": "0xkerwin@gmail.com"
         }
     ],
-    "minimum-stability": "dev", 
+    "minimum-stability": "stable", 
     "require": {
         "yiisoft/yii2": "*",
         "pandao/editor.md": "*"
     },
     "autoload": {
         "psr-4": {
-            "kerwin\\markdown\\": "src"
+            "kerwin\\markdown\\": ""
         }
     }
 }
