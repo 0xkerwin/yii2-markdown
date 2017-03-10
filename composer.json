@@ -13,8 +13,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "yiisoft/yii2": "*",
-        "pandao/editor.md": "*"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
